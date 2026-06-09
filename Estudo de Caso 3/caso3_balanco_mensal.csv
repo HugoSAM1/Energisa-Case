@@ -1,0 +1,3 @@
+Mes;Energia Requerida SE S2 (kWh);Mercado Regulado SE S4 (kWh);Mercado Livre SE S3 considerado (kWh);SE S3 medido na planilha (kWh);Perdas (kWh);Perdas (%);Status
+Fev/25;6550446,717;5295336,0;0,0;1336242,3970299999;1255110,7170000002;19,16068889992927;Balanco fisico positivo
+Out/25;6327317,6788;7191360,0;1518064,8708499998;1518064,8708499998;-2382107,1920499997;-37,647978384764386;Inconsistente - perdas negativas
